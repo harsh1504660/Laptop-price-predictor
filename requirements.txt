@@ -1,3 +1,0 @@
-streamlit
-sklearn==1.2.1
-pandas==1.5.3
